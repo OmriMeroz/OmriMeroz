@@ -22,6 +22,6 @@ Technologies & Tools: Office Suite, Version Control (Git), Software Engineering
 Languages: Native Hebrew, Professional English
 
 📫 Contact Me
-GitHub: github.com/YourUsername
-LinkedIn: linkedin.com/in/YourProfile
+GitHub: github.com/OmriMeroz
+LinkedIn: linkedin.com/in/omri-meroz
 Email: omrimeroz@gmail.com

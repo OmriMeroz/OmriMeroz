@@ -25,3 +25,6 @@ Languages: Native Hebrew, Professional English
 GitHub: github.com/OmriMeroz
 LinkedIn: linkedin.com/in/omri-meroz
 Email: omrimeroz@gmail.com
+
+
+<p><img align="left" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=avivjac&show_icons=true&locale=en&layout=compact" alt="OmriMeroz" /></p>

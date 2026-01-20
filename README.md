@@ -1,6 +1,6 @@
 **Omri Meroz**
 👋 Welcome to my GitHub!
-I'm a Computer Science student at Ben-Gurion University, currently in my third semesters with a GPA of 90. I have a strong passion for software development, problem-solving, and technology.
+I'm a Computer Science student at Ben-Gurion University, currently in my third semesters with a GPA of 9`. I have a strong passion for software development, problem-solving, and technology.
 I thrive in challenging environments and always strive for continuous learning and innovation.
 
 🔥 About Me
